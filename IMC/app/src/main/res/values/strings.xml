@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="IMC">Índice de Massa Corpórea</string>
+    <string name="altura_hint">Digite a altura (cm)</string>
+    <string name="peso_hint">Digite o peso (Kg)</string>
+    <string name="button_imc">Calcular IMC</string>
+    <string name="imc_rotulo_resultado"><![CDATA[IMC =]]></string>
+    <string name="resultado_hint">Resultado</string>
+</resources>

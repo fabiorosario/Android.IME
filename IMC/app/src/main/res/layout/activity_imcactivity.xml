@@ -24,15 +24,15 @@
 
     <ImageView
         android:id="@+id/imc_imagem"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="251dp"
+        android:layout_height="458dp"
         android:contentDescription="@string/IMC"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="0.443"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imc_resultado"
-        app:layout_constraintVertical_bias="0.547" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.443" />
 
     <TextView
         android:id="@+id/textView2"

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Componentes Android: Activity</string>
+    <string name="login_rotulo">LOGIN</string>
+    <string name="login_hint">Digite o login</string>
+    <string name="senha_hint">Digite a Senha</string>
+    <string name="botaoOK_rotulo">OK</string>
+    <string name="imagemLogin_descricao">Imagem de Login</string>
+</resources>

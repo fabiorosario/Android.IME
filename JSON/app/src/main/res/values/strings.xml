@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JSON</string>
+    <string name="nome_rotulo">Nome</string>
+    <string name="nome_hint">Digite o nome</string>
+    <string name="telefone_rotulo">Telefone</string>
+    <string name="botao_salvarjson"><![CDATA[>> JSON]]></string>
+    <string name="botao_recuperarjson"><![CDATA[JSON <<]]></string>
+</resources>

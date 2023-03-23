@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Componentes Android: Activity</string>
+    <string name="app_name">Activity and Service with JSON</string>
     <string name="login_rotulo">LOGIN</string>
     <string name="login_hint">Digite o login</string>
     <string name="senha_hint">Digite a Senha</string>

@@ -17,6 +17,6 @@ public class TelaPrincipal extends AppCompatActivity {
         String usuario = intent.getStringExtra(MainActivity.login_usuario);
         String email = intent.getStringExtra(MainActivity.email_usuario);
         ((TextView)findViewById(R.id.status)).setText(usuario);
-        ((EditText)findViewById(R.id.email)).setText(email);
+        ((TextView)findViewById(R.id.email)).setText(email);
     }
 }

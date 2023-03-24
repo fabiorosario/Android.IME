@@ -20,11 +20,9 @@ public class MainActivity extends AppCompatActivity {
 
     private Logar logar;
     Intent intent;
-
     public static String json = "";
     public static final String login_usuario = "login_usuario";
     public static final String email_usuario = "email_usuario";
-
 
     ServiceConnection serviceConnection = new ServiceConnection() {
         @Override

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Atividade+Servico_Senhas Aleatorias</string>
+    <string name="rotulo_gerarSenhas">Geração de Senhas Aleatórias</string>
+    <string name="gerarSenhas">Gerar Senhas</string>
+    <string name="title_activity_tela_principal">TelaPrincipal</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="maiuscula_rotulo">Quantidade de letras maiúsculas: </string>
+    <string name="minuscula_rotulo">Quantidade de letras minúsculas: </string>
+    <string name="caracteres_rotulo">Quantidade de carecteres especiais: </string>
+    <string name="numeros_rotulo">Quantidade de números: </string>
+    <string name="senhasGeradas_rotulo">Senhas Geradas</string>
+</resources>
